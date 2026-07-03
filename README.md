@@ -58,3 +58,4 @@ For administrative and coordination tasks, I follow this process:
 5. Track progress using suitable tools
 6. Prepare clear documentation or updates
 7. Follow up until the task is completed
+
